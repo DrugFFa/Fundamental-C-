@@ -1,0 +1,14 @@
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TUGAS2.exe
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TUGAS2.deps.json
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TUGAS2.runtimeconfig.json
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TUGAS2.runtimeconfig.dev.json
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TUGAS2.dll
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TUGAS2.pdb
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TUGAS2.dll
+C:\Users\SnsvV\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TUGAS2.pdb
